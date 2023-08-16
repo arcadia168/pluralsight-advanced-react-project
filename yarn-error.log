@@ -28,7 +28,7 @@ npm manifest:
     "version": "1.0.0",
     "description": "Pluralsight exercise coding project for the Advanced React.js course.",
     "main": "server.js",
-    "author": "***REMOVED*** ***REMOVED***",
+    "author": "Erin Eland",
     "license": "MIT",
     "scripts": {
       "dev": "pm2 start lib/server.js --watch --interpreter babel-node",
