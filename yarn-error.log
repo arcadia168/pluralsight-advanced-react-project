@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/local/bin/node /Users/***REMOVED***b/.npm-global/bin/yarn test
+  /usr/local/bin/node /Users/elande/.npm-global/bin/yarn test
 
 PATH: 
-  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin:/usr/local/bin:/usr/local/share/npm/bin:/Users/***REMOVED***b/.npm-global/lib:/Users/***REMOVED***b/.npm-global/bin/:/Users/***REMOVED***b/.npm-global/lib/node_modules
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin:/usr/local/bin:/usr/local/share/npm/bin:/Users/elande/.npm-global/lib:/Users/elande/.npm-global/bin/:/Users/elande/.npm-global/lib/node_modules
 
 Yarn version: 
   1.7.0
@@ -14,12 +14,12 @@ Platform:
   darwin x64
 
 Trace: 
-  SyntaxError: /Users/***REMOVED***b/Documents/Learning Resources/Pluralsight/advanced-react-new/package.json: Unexpected token } in JSON at position 360
+  SyntaxError: /Users/elande/Documents/Learning Resources/Pluralsight/advanced-react-new/package.json: Unexpected token } in JSON at position 360
       at JSON.parse (<anonymous>)
-      at /Users/***REMOVED***b/.npm-global/lib/node_modules/yarn/lib/cli.js:1130:59
+      at /Users/elande/.npm-global/lib/node_modules/yarn/lib/cli.js:1130:59
       at Generator.next (<anonymous>)
-      at step (/Users/***REMOVED***b/.npm-global/lib/node_modules/yarn/lib/cli.js:98:30)
-      at /Users/***REMOVED***b/.npm-global/lib/node_modules/yarn/lib/cli.js:109:13
+      at step (/Users/elande/.npm-global/lib/node_modules/yarn/lib/cli.js:98:30)
+      at /Users/elande/.npm-global/lib/node_modules/yarn/lib/cli.js:109:13
       at <anonymous>
 
 npm manifest: 
